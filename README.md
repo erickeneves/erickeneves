@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-neves/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:erickedu211@gmail.com)
 
-![Erick Neves stats](https://github-readme-stats.vercel.app/api?username=erickeneves&locale=pt-br&show_icons=true&theme=tokyonight)   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickeneves&layout=pie&locale=pt-br&langs_count=8&card_width=320&theme=cobalt" />
+![Erick Neves stats](https://github-readme-stats.vercel.app/api?username=erickeneves&locale=pt-br&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickeneves&layout=donut)](https://github.com/erickeneves/github-readme-stats)
 
 ## Ferramentas utilizadas
 
