@@ -20,5 +20,5 @@
 
 ## Watch snake eating my github contributions 
  
-![snake_gif](https://github.com/Erickeneves/Erickeneves/blob/output/github-snake-dark.svg)
+![snake_gif](https://github.com/erickeneves/erickeneves/blob/output/github-snake-dark.svg)
 
