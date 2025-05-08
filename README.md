@@ -20,5 +20,5 @@
 
 #
 
-![snake_gif](https://github.com/erickeneves/erickeneves/blob/output/github-snake-dark.svg)
+(https://github.com/erickeneves/erickeneves/blob/output/github-snake-dark.svg)
 
