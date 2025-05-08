@@ -18,4 +18,4 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  
-![snake gif](https://github.com/erickeneves/erickeneves/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/erickeneves/erickeneves/output/snake.svg" width = 1500 alt="Snake animation" />
