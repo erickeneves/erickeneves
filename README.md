@@ -20,5 +20,3 @@
  
 <img src="https://raw.githubusercontent.com/erickeneves/erickeneves/output/snake.svg"/>
 
-
-<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
