@@ -30,7 +30,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="![77caa32884d735d439ade45ba37feaf2](https://github.com/user-attachments/assets/01d0e85c-18e4-48be-b166-117c1f37192d]" alt="gif">
+  <img align="center" src="![77caa32884d735d439ade45ba37feaf2](https://github.com/user-attachments/assets/2ddea479-a525-4bf1-98f3-d7de96aeca94)
+" alt="gif">
 </p>
 
  
