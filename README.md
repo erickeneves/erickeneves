@@ -30,7 +30,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" alt="Imagem">
+  <img align="center" src="![image](https://github.com/user-attachments/assets/9fd1f9fa-c2d1-4f72-9bcf-a5c59ddad247)
+" alt="Imagem">
 </p>
  
 <picture align="center">
