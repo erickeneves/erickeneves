@@ -30,7 +30,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/9fd1f9fa-c2d1-4f72-9bcf-a5c59ddad247" alt="Imagem">
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F666603182343523670%2F&psig=AOvVaw1HIM3Vfxc1ZwksiyY72hFW&ust=1750639328702000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjX9evlg44DFQAAAAAdAAAAABAE" alt="Imagem">
 </p>
  
 <picture align="center">
