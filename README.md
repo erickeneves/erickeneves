@@ -27,6 +27,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-%239b59b6.svg?style=for-the-badge&logo=elixir&logoColor=%231f2e43)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <!-- GIF -->
 <p align="left">
