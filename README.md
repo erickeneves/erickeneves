@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-neves-3a9252321/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:erickedu211@gmail.com)
 
-![Erick Neves stats](https://github-readme-stats.vercel.app/api?username=erickeneves&locale=pt-br&count_private=true&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickeneves&layout=donut&locale=pt-br&count_private=true&theme=tokyonight)](https://github.com/erickeneves/github-readme-stats)
+![Erick Neves stats][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickeneves&layout=donut&locale=pt-br&count_private=true&theme=tokyonight)](https://github.com/erickeneves/github-readme-stats)
 
 ## Ferramentas utilizadas
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
