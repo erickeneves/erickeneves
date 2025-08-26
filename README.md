@@ -12,7 +12,6 @@
 
 ![Erick Neves stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erickeneves&layout=donut&locale=pt-br&count_private=true&theme=tokyonight)
 
-## Ferramentas utilizadas
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A.svg?style=for-the-badge&logo=Scalar&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -20,7 +19,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-## Linguagens e Frameworks utilizadas
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Liquid](https://img.shields.io/badge/Liquid-%239b59b6.svg?style=for-the-badge&logo=elixir&logoColor=%231f2e43)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
