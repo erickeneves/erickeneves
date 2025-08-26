@@ -14,7 +14,6 @@
 
 ## Ferramentas utilizadas
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
-![Weaverse](https://img.shields.io/badge/Weaverse-000000.svg?style=for-the-badge&logo=Wellfound&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A.svg?style=for-the-badge&logo=Scalar&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe&logoColor=white)
