@@ -31,7 +31,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img width="763" height="429" alt="image" src="https://github.com/user-attachments/assets/6f692dfb-0543-4f6f-8f8e-21ad9bf8900b" alt="gif"/>
+  ![cat-typing-11](https://github.com/user-attachments/assets/9aaf7c06-6eda-4d3b-89e9-f4437cc3bbc7)
 </p>
 
 <picture align="center">
