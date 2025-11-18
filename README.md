@@ -1,10 +1,10 @@
-### Olá! Eu sou o Erick 🤝
+### Hi! I'm Erick 🤝
 
-🚩 Seja bem-vindo ao meu perfil! Sinta-se à vontade para ver meus projetos e conhecer um pouco mais sobre minha vida profissional e acadêmica.
+🚩 Welcome to my profile! Be free to see my projects and meet some of my professional and academic life.
 
-📜 Sempre buscando novas formas de adquirir e compartilhar conhecimentos!
+📜 Always searching for new ways to accquire and share knowledge!
 
-🖥️ Desenvolvedor Front-End na Agência Shakers!
+🖥️ Front-End Developer on Shakers Agência!
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5514988364827)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-neves-3a9252321/)
