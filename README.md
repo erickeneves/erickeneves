@@ -10,7 +10,23 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-neves-3a9252321/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:erickedu211@gmail.com)
 
-![Erick Neves stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erickeneves&layout=donut&locale=pt-br&count_private=true&theme=tokyonight)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=erickeneves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickeneves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A.svg?style=for-the-badge&logo=Scalar&logoColor=white)
