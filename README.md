@@ -47,7 +47,7 @@
 
 <!-- GIF -->
 <p align="left">
- <img align="center" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b4c0d6d6-6e16-4f7f-b02a-2c02535641c8a0d699e" alt="gif"/>
+ <img justify="center" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b4c0d6d6-6e16-4f7f-b02a-2c02535641c8a0d699e" alt="gif"/>
 </p>
 
 <picture align="center">
