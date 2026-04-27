@@ -27,11 +27,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<!-- GIF -->
-<p align="left">
- <img align="center" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b4c0d6d6-6e16-4f7f-b02a-2c02535641c8a0d699e" alt="gif"/>
-</p>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickeneves/erickeneves/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickeneves/erickeneves/output/github-contribution-grid-snake-dark.svg">
