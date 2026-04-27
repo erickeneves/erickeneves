@@ -1,8 +1,8 @@
-### Hi! I'm Erick 🤝
+### Hi! I'm Erick 
 
-🚩 Welcome to my profile! Be free to see my projects and meet some of my professional and academic life.
+ Welcome to my profile! Be free to see my projects and meet some of my professional and academic life.
 
-📜 Always searching for new ways to accquire and share knowledge!
+ Always searching for new ways to accquire and share knowledge!
 
 🖥️ Front-End Developer on Shakers Agência!
 
